@@ -14,6 +14,6 @@
 - Тестирование: проверка работы сайта в различных браузерах для обеспечения корректного отображения и функциональности.
 - Публикация проекта: размещение сайта на GitHub и настройка GitHub Pages для демонстрации.
 
-Превью: [https://stolzie071.github.io/Layout-from-Figma/](https://stolzie071.github.io/Layout-from-Figma/)
+Превью: [https://github.com/university255/Figma-Practice-Task/](https://stolzie071.github.io/Layout-from-Figma/)
 
 ![preview-image](https://github.com/user-attachments/assets/122fa834-e4a7-40f9-9a68-28f9dbc7f55f)
